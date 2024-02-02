@@ -1,6 +1,6 @@
 //Boolean Flags
 
-boolean runStage1 = false
+boolean runStage1 = true
 
 boolean runStage2 = false
  
